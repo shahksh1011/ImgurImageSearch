@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImgurApplication</string>
+    <string name="enter_search_key">Enter Search Key</string>
+    <string name="search_button">Search Button</string>
+    <string name="imgur_image">Imgur image</string>
+    <string name="single_image_big_view">Single Image Big View</string>
+</resources>
